@@ -6,8 +6,8 @@
 
 # Hey, I'm Brandi a Web-based Software Engineer!
 
+- 🛠️ Tech stack: HTML/CSS, Javascript, MongoDB, React, Python
 - 🧠 UX background
-- 🛠️ Tech stack: MERN stack and front-end development
 - 🚀 Building and creating with XR technologies
 - 🌱 Always open to collaborating and connecting with other creative technologists
 
