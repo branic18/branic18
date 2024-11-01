@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://brandin.netlify.app">
-  <img height="200" width= "1000" alt="Brandi Nichols Software Engineer" src="Cover.png">  
+  <img height="200" width= "1000" alt="Brandi Nichols Software Engineer" src="Cover2.png">  
   </a>
 </p>
 
