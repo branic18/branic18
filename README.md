@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Hey, I'm Brandi a Web-based Software Engineer!
+# Hey, I'm Brandi a Software Engineer!
 
 - 🛠️ Tech stack: HTML/CSS, Javascript, MongoDB, React, Python
 - 🧠 UX background
