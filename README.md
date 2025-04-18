@@ -6,7 +6,7 @@
 
 # Hey, I'm Brandi a Software Engineer!
 
-- 🛠️ Tech stack: HTML/CSS, Javascript, MongoDB, React, Python
+- 🛠️ Tech stack: HTML/CSS, Javascript, Node.js, Express.js, MongoDB, React, Python
 - 🧠 UX background
 - 🚀 Building and creating with XR technologies
 - 🌱 Always open to collaborating and connecting with other creative technologists
