@@ -4,40 +4,29 @@
   </a>
 </p>
 
-# Hey, I'm Brandi a Software Engineer!
+# Hey, I'm Brandi, Software Engineer w/ Product Design background!
 
-- 🛠️ Tech stack: HTML/CSS, Javascript, Node.js, Express.js, MongoDB, React, Python
-- 🧠 UX background
-- 🚀 Building and creating with XR technologies
-- 🌱 Always open to collaborating and connecting with other creative technologists
+- 🧠 Skilled in both product design and software engineering, bridging user experience and technical implementation
+- 🧪 Experimenting to deeply understand how systems function by breaking them down, reverse engineering and reframing them
+- 🔐 Learning secure coding and privacy-by-design to build safer, more responsible products
+
+Outside work: exploring nature, sketching ideas, playing logic games, and reading about design & tech ethics
+
+📌 Read my Security and Privacy Product Playbook below detailing my learning journey in security and privacy. Updated every 1-2 weeks
+
 
 ## Languages and Tools
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-</p>
+
+HTML | CSS | React | JavaScript | Node.js | Express.js | Python | MongoDB
 
 
 ## Connect with me  
 <div align="center">
+<a href="[https://www.linkedin.com/in/brandicnichols/](https://www.linkedin.com/in/brandi-nichols-dev/)" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://x.com/111_Brandi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/brandicnichols/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <div>
 
