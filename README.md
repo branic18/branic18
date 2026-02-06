@@ -4,15 +4,13 @@
   </a>
 </p>
 
-# Hey, I'm Brandi, Software Engineer w/ Product Design background!
+# Hey, I'm Brandi, Product Engineer!
 
-- 🧠 Skilled in both product design and software engineering, bridging user experience and technical implementation
+- 🧠 Skilled in both software engineering and product design, bridging technical implementation with user experience 
 - 🧪 Experimenting to deeply understand how systems function by breaking them down, reverse engineering and reframing them
 - 🔐 Learning secure coding and privacy-by-design to build safer, more responsible products
 
 Outside work: exploring nature, sketching ideas, playing logic games, and reading about design & tech ethics
-
-📌 Read my Security and Privacy Product Playbook below detailing my learning journey in security and privacy. Updated every 1-2 weeks
 
 
 ## Languages and Tools
