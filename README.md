@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Hey I'm Brandi-- Product Engineer! ❤️🛠️
+# Hey I'm Brandi! | Product Engineer ❤️🛠️
 
 - 🧠 Skilled in both software engineering and product design, bridging technical implementation with user experience 
 - 🧪 Experimenting to deeply understand how systems function by breaking them down, reverse engineering and reframing them
